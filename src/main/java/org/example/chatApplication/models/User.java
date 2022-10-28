@@ -1,7 +1,6 @@
 package org.example.chatApplication.models;
 
-
-import chatApplication.Service.ServiceImpl.UserServiceImpl;
+import org.example.chatApplication.Service.ServiceImpl.UserServiceImpl;
 
 
 public  class User{

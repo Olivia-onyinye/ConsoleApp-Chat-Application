@@ -1,7 +1,7 @@
 package org.example.chatApplication.Service.ServiceImpl;
 
 
-import chatApplication.Util.closeReaderWriterUtil;
+import org.example.chatApplication.Util.closeReaderWriterUtil;
 
 import java.io.*;
 import java.net.Socket;

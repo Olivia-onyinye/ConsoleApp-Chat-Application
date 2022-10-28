@@ -1,6 +1,7 @@
 package org.example.chatApplication.Service.ServiceImpl;
 
-import chatApplication.Service.userService;
+
+import org.example.chatApplication.Service.userService;
 
 import java.io.*;
 import java.net.Socket;

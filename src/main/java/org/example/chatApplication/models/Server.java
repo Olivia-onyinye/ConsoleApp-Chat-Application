@@ -1,6 +1,6 @@
 package org.example.chatApplication.models;
 
-import chatApplication.Service.ServiceImpl.UserManagerServiceImpl;
+import org.example.chatApplication.Service.ServiceImpl.UserManagerServiceImpl;
 
 import java.io.IOException;
 import java.net.ServerSocket;
